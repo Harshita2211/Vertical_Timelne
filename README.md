@@ -15,11 +15,12 @@ This project is a **Vertical Timeline of Prime Ministers** built using frontend 
 - Easy to understand and visually appealing design  
 
 ##  Project Structure
+```
 project-folder/
 │── index.html
 │── style.css
 │── assets/
-
+```
 
 ##  How to Run
 1. Download or clone the repository  
